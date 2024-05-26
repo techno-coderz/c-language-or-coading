@@ -1,2 +1,2 @@
 # c-language-or-coading
-# c language
+a code repo for c language series
